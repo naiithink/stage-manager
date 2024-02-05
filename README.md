@@ -1,5 +1,8 @@
 # Stage Manager
 
+> [!NOTE]  
+> Contributions are welcomed &#x1F919;
+
 **Stage Manager** is a fully customizable JavaFX window (or Stage) manager
 featuring page routing, window customizations such as window title, control buttons, shadow, and corner redius.
 It is also capable of managing multiple windows.
